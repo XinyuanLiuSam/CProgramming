@@ -1,0 +1,4 @@
+name          age  fraction    output
+Julia Smith   45   0.8         Your name is Julia Smith, you are 45 years old and your employment fraction is 0.8.
+Xinyuan Liu   18   0.0         Your name is Xinyuan Liu, you are 18 years old and your employment fraction is 0.00.
+Jake Luther   35   0.6         Your name is Jake Luther, you are 35 years old and your employment fraction is 0.60. 
