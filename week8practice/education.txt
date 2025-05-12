@@ -1,0 +1,6 @@
+12
+Educational attainment: Secondary level education.
+5
+Educational attainment: Primary level education.
+15
+Educational attainment: Tertiary level education.

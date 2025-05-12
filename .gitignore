@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/week8practice/temp
+/week8practice/err1
+/week8practice/err2
+/week8practice/err3
