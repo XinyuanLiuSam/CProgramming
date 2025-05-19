@@ -1,0 +1,7 @@
+input                output
+Jennifer             JENNIFER
+Joe,SmitH            JOE,SMITH
+Seb                      SEB 
+Nissien                  NISSIEN
+Sam                      SAM 
+Bella                    BELLA

@@ -1,0 +1,6 @@
+input                output
+jennifer             JENNIFER
+joe,smith            JOE,SMITH
+sam                      SAM
+jake                     JAKE
+bella                    BELLA  
